@@ -1,0 +1,12 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+body {
+	height: 100vh;
+	background: linear-gradient(to top right, cyan 10%, rgb(0, 183, 255));
+	display: grid;
+	place-items: center;
+}
