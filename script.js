@@ -362,3 +362,4 @@ if (userType == "Admin") {
 	alert("I don't know you");
 }
 console.log(userType, typeof userType);
+console.log(userType, typeof userType);
